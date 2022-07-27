@@ -1,0 +1,11 @@
+/* Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lobster&family=Open+Sans:wght@500;600;700;800&family=Poppins:ital,wght@0,100;0,300;0,400;0,600;0,700;1,500&family=Roboto+Condensed:wght@300;400;700&family=Roboto+Slab:wght@300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
